@@ -11,3 +11,4 @@ I have implemented a pagination feature, allowing users to navigate through the 
 - Maven
 - JPA/Hibernate
 - Thymeleaf
+- MySQL
